@@ -17,4 +17,4 @@
  9.  Salary
 10.  Whether the employee has left?
 
-# Our objective is to find what type of employees are leaving and also which employees are prone to leave next. So I have used predictive analysis in order to solve this problem.
+ Our objective is to find what type of employees are leaving and also which employees are prone to leave next. So I have used predictive analysis in order to solve this problem.
